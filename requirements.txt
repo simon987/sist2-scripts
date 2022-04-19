@@ -1,2 +1,5 @@
 boto3
 requests
+ffmpeg-python
+transformers
+torch
